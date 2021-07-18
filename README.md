@@ -1,2 +1,2 @@
 # certificates
-Find all my certificates for internships and projects here
+Find all my certificates for workshops, projects, internships and other stuff here
